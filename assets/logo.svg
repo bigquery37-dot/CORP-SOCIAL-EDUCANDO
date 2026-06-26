@@ -1,1 +1,11 @@
-
+<svg width="240" height="80" viewBox="0 0 240 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Logo CORPSE 1979</title>
+  <desc id="desc">Logo institucional de Corporación Social Educando</desc>
+  <rect width="240" height="80" rx="18" fill="#F4F8F5"/>
+  <circle cx="40" cy="40" r="25" fill="#1F7A4D"/>
+  <path d="M27 45C31 35 39 29 53 28C50 40 43 49 29 52C28 50 27.5 48 27 45Z" fill="#FFFFFF"/>
+  <path d="M38 43C43 36 50 32 58 31" stroke="#D6A33D" stroke-width="3" stroke-linecap="round"/>
+  <text x="78" y="36" fill="#123324" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">CORPSE</text>
+  <text x="78" y="58" fill="#1F7A4D" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">1979</text>
+  <path d="M78 43H185" stroke="#D6A33D" stroke-width="2" stroke-linecap="round"/>
+</svg>
