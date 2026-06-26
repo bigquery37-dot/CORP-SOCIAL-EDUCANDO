@@ -1,31 +1,40 @@
-# Página web - Corporación Social Educando | CORPSE 1979
+# Página web profesional - Corporación Social Educando | CORPSE 1979
 
-Sitio web estático listo para publicar gratis en GitHub Pages, Netlify o Vercel.
+Versión mejorada del sitio institucional, lista para publicar gratis en GitHub Pages.
 
 ## Archivos incluidos
 
-- `index.html`: estructura y contenido principal.
-- `styles.css`: estilos visuales y diseño responsive.
+- `index.html`: estructura y contenido profesional del sitio.
+- `styles.css`: estilos visuales, diseño responsive y nuevas secciones.
 - `script.js`: menú móvil y formulario por correo.
 - `assets/logo.svg`: logo inicial editable en SVG.
+- `documentos/`: carpeta sugerida para cargar documentos PDF oficiales, si la entidad decide publicarlos.
 
-## Cómo publicar gratis en GitHub Pages
+## Secciones incluidas
 
-1. Crea un repositorio nuevo en GitHub.
-2. Sube todos los archivos y la carpeta `assets`.
-3. En GitHub entra a `Settings` > `Pages`.
-4. En `Build and deployment`, selecciona `Deploy from a branch`.
-5. En `Branch`, selecciona `main` y carpeta `/root`.
-6. Guarda los cambios.
-7. GitHub generará una URL pública gratuita.
+- Inicio institucional.
+- Quiénes somos.
+- Propósito institucional: misión, visión y enfoque.
+- Líneas de acción.
+- Impacto y transparencia.
+- Registro Web DIAN.
+- Contacto institucional.
 
-## Datos incluidos
+## Datos usados
 
-La página incluye datos institucionales de contacto y ubicación general. No se incluyeron datos personales sensibles del representante legal ni documentos de identificación.
+La página incorpora datos institucionales visibles en el RUT aportado por la entidad: razón social, sigla, NIT, ciudad, correo, teléfono y dirección general. No se incluyeron documentos de identificación personal.
 
-## Personalización sugerida
+## Publicación en GitHub Pages
 
-- Reemplazar el logo por uno oficial si existe.
-- Agregar fotografías reales de la corporación.
-- Ajustar misión, visión, programas y aliados.
-- Conectar un dominio propio cuando esté disponible.
+1. Descomprime el archivo ZIP.
+2. Ingresa al repositorio publicado en GitHub.
+3. Haz clic en `Add file` > `Upload files`.
+4. Sube todos los archivos y carpetas de esta versión.
+5. Confirma con `Commit changes`.
+6. Espera de 1 a 3 minutos y actualiza la página con `Ctrl + F5`.
+
+## Recomendaciones
+
+- Revisar y aprobar los textos con la entidad antes de usarlos en trámites oficiales.
+- Si se requiere soporte para Registro Web, cargar los PDF oficiales en la carpeta `documentos` y agregar los enlaces dentro de la sección `Registro Web DIAN`.
+- Reemplazar el logo provisional por el logo oficial, si existe.
